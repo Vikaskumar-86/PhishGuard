@@ -1,0 +1,6 @@
+{
+  "name": "PhishGuard – Phishing Awareness Training Platform",
+  "description": "Interactive cybersecurity training platform educating users on identifying phishing emails, fake websites, and social engineering attacks.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
